@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Example2.MainPage">
+
+    <StackLayout Margin="20, 35, 20, 20">
+        <!-- Place new controls here -->
+
+        <Entry x:Name="TXTUser"/>
+
+        <Button Clicked="Button_OnClicked"
+                Text="Say Hello!"/>
+
+        <Label x:Name="UserLabel"
+               FontSize="14"/>
+
+        <Button   x:Name="PressHoldButton"
+                Text="Hold to Change Color!"
+                  TextColor="Blue"
+                 BackgroundColor= "LightSlateGray"
+                 BorderColor="Aqua"
+                 BorderWidth="10"
+                 CornerRadius="10"
+                 WidthRequest="700"
+                 HeightRequest="150"
+                VerticalOptions="CenterAndExpand"
+                 HorizontalOptions="Center" 
+                Pressed="OnButtonPressed"
+                Released="OnButtonReleased" 
+                  Font="Sans Serif"
+                  FontSize="30" />
+
+        <Entry 
+            Placeholder="This creates placeholder text"
+            TextChanged="OnEntryTextChanged"
+            Completed="OnEntryCompleted" />
+
+        <Entry Placeholder="Enter password"
+            MaxLength="15"
+            IsSpellCheckEnabled="false"
+            IsTextPredictionEnabled="false"
+            IsPassword="true" />
+
+        <Editor Placeholder="Enter multi-line text here"
+                HeightRequest="200"
+                MaxLength="200"
+                TextChanged="OnEditorTextChanged"
+                Completed="OnEditorCompleted"
+                IsSpellCheckEnabled="false"
+                IsTextPredictionEnabled="false" />
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\bin\Debug\netstandard2.0\Example2.deps.json
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\bin\Debug\netstandard2.0\Example2.dll
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\bin\Debug\netstandard2.0\Example2.pdb
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Example2.csprojAssemblyReference.cache
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Example2.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Example2.AssemblyInfoInputs.cache
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Example2.AssemblyInfo.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Example2.dll
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Example2.pdb
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\MainPage1.xaml.g.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\NewPage.xaml.g.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\ExampleLogInPage.xaml.g.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Views\DirectoryPage.xaml.g.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\Views\PresentationPage.xaml.g.cs
+C:\Users\Nicol\OneDrive\Desktop\Example2\Example2\obj\Debug\netstandard2.0\XamlC.stamp
